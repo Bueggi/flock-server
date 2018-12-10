@@ -29,4 +29,4 @@ FACEBOOK_CALLBACK=''
 * Damien Derail <a href="https://www.linkedin.com/in/damien-derail-b446932a/">linkedIn</a> | <a href="https://github.com/Damien1208">gitHub</a>
 
 ## Contribution
-This project is licensed 
+This project is licensed under MIT license. Feel free to fork the project and open a PR for any changes.
