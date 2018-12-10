@@ -5,18 +5,25 @@
 Planning trips has never been easier before. Flock is the easiest way organizing trips as a group. Every member of a trip can make suggestions on three categories: Destination, Budget, Timeframe. Everyone can vote for their favorite option. As soon as the decision is made the creator can lock the voting. Any need to discuss? With the help of the chat feature communication is centralized in the app.
 
 ## Installation
-Clone the repo onto your local machine and run `npm i`.
-In order to test the application you can run `npm run dev`.
-
-Important:
-Create a new `.env` file and include following properties with your own values:
+1. Clone the repo to your local machine
+``` 
+git clone https://github.com/Bueggi/flock-server.git
+```
+2. Install all dependencies
+```
+cd flock-server
+npm i
+```
+3 Create a new `.env` file in the root folder and include following properties with your own values.
+Read <a href="https://developers.facebook.com/docs/facebook-login/web">here</a> how to create a Facebook app and get own credentials.
 ```
 FACEBOOK_APP_ID=''
 FB_APP_SECRET={''}
 FACEBOOK_CALLBACK=''
 ```
+4. To start the server run `npm run dev`
 
-## Techstack
+## Tech stack
 * <a href="https://graphql.org/">GraphQL</a>
 * <a href="https://www.apollographql.com/docs/apollo-server/">Apollo Server</a>
 * <a href="https://www.mongodb.com/what-is-mongodb">MongoDB</a>
