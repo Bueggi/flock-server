@@ -4,6 +4,9 @@
 ## Introduction
 Planning trips has never been easier before. Flock is the easiest way organizing trips as a group. Every member of a trip can make suggestions on three categories: Destination, Budget, Timeframe. Everyone can vote for their favorite option. As soon as the decision is made the creator can lock the voting. Any need to discuss? With the help of the chat feature communication is centralized in the app.
 
+## Screenshots
+<img src="https://github.com/Bueggi/flock-server/blob/master/first.jpg" />
+
 ## Installation
 1. Clone the repo to your local machine
 ``` 
