@@ -21,7 +21,7 @@ FACEBOOK_CALLBACK=''
 * <a href="https://jestjs.io/">Jest</a>
 
 ## Contributors
-* Marco Kunz | <a href"https://www.linkedin.com/in/marcokunz/">linkedIn</a> | <a href="https://github.com/mrcknz">gitHub</a>
-* Berta Cumellas | <a href"https://www.linkedin.com/in/berta-cumellas/">linkedIn</a> | <a href="https://github.com/bertacume">gitHub</a>
-* Arturo Moreira Pintos dos Santos | <a href"https://www.linkedin.com/in/arturo-moreira-santos-381a21176/">linkedIn</a> | <a href="https://github.com/artyBMPS">gitHub</a>
-* Damien Derail <a href"https://www.linkedin.com/in/damien-derail-b446932a/">linkedIn</a> | <a href="https://github.com/Damien1208">gitHub</a>
+* Marco Kunz | <a href="https://www.linkedin.com/in/marcokunz/">linkedIn</a> | <a href="https://github.com/mrcknz">gitHub</a>
+* Berta Cumellas | <a href="https://www.linkedin.com/in/berta-cumellas/">linkedIn</a> | <a href="https://github.com/bertacume">gitHub</a>
+* Arturo Moreira Pintos dos Santos | <a href="https://www.linkedin.com/in/arturo-moreira-santos-381a21176/">linkedIn</a> | <a href="https://github.com/artyBMPS">gitHub</a>
+* Damien Derail <a href="https://www.linkedin.com/in/damien-derail-b446932a/">linkedIn</a> | <a href="https://github.com/Damien1208">gitHub</a>
