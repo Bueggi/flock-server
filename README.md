@@ -27,6 +27,7 @@ FACEBOOK_CALLBACK=''
 4. To start the server run `npm run dev`
 
 ## Tech stack
+<img src="https://github.com/Bueggi/flock-server/blob/master/techstack.png" />
 * <a href="https://graphql.org/">GraphQL</a>
 * <a href="https://www.apollographql.com/docs/apollo-server/">Apollo Server</a>
 * <a href="https://www.mongodb.com/what-is-mongodb">MongoDB</a>
